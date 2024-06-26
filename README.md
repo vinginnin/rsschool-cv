@@ -1,1 +1,1 @@
-[vinginnin]("https://vinginnin.github.io/rsschool-cv/cv")
+https://github.com/vinginnin/rsschool-cv.git
